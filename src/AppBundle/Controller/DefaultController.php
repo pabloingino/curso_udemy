@@ -23,6 +23,6 @@ class DefaultController extends Controller
      */
 	public function helloWorldAction(){
 		echo '<h1>Hola Mundo!!</h1>';
-		die();
+		//die();
 	}
 }
